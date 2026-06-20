@@ -7,14 +7,6 @@
       "user": "scenicprints",
       "repo": "fluidez-es-ni",
       "branch": "main"
-    },
-    {
-      "code": "gsw-lu",
-      "name": "Luzerndütsch",
-      "flag": "🇨🇭",
-      "user": "scenicprints",
-      "repo": "fluidez-gsw-lu",
-      "branch": "main"
     }
   ]
 }
