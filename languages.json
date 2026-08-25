@@ -6,6 +6,16 @@
       "flag": "🇳🇮",
       "user": "scenicprints",
       "repo": "fluidez-es-ni",
+      "branch": "main",
+      "blurb": "Managua · 185 stories"
+    },
+    {
+      "code": "de-ch",
+      "name": "Schweizer Hochdeutsch",
+      "flag": "🇨🇭",
+      "blurb": "Luzern · in Arbeit",
+      "user": "scenicprints",
+      "repo": "fluidez-de-ch",
       "branch": "main"
     }
   ]
